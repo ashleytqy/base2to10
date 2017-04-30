@@ -1,0 +1,42 @@
+body {
+	font-family: 'Space Mono', monospace;
+	margin: 0;
+	padding: 0;
+	color: #FFFFFF;
+	background-color: #001B44;
+}
+
+.title {
+	padding-left: 20px;
+	padding-top: 10px;
+	color: #FF6300;
+}
+
+.bit {
+	display: inline-block;
+	font-size: 2em;
+	padding: 1em;
+
+}
+
+.bit:hover {
+	background-color: #CDECFF;
+	color: #001B44;
+	cursor: pointer;
+}
+
+.binary {
+	padding: 1em;
+}
+
+.total {
+	font-weight: 700;
+	font-size: 2em;
+	color: #FFD700;
+}
+
+.words {
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
